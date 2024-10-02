@@ -24,7 +24,7 @@ class Notebook {
     constructor(
         public nombre: string, // Nombre del equipo (ej. Dell XPS)
         public ram: string,    // Cantidad de RAM (ej. 16GB)
-        public procesador: string // Tipo de procesador (ej. i7)
+        public procesador: string // T  ipo de procesador (ej. i7)
     ) {}
 
     // Este método devuelve los detalles del equipo
